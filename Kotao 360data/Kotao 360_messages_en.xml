@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+  <data name="en_panogroup36_title"><![CDATA[Group 36]]></data>
+
+  <data name="en_pano25_title"><![CDATA[01]]></data>
+  <data name="en_pano35_title"><![CDATA[02]]></data>
+  <data name="en_pano33_title"><![CDATA[03]]></data>
+  <data name="en_pano22_title"><![CDATA[4]]></data>
+  <data name="en_pano23_title"><![CDATA[5]]></data>
+  <data name="en_pano24_title"><![CDATA[6]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+
+
+
+
+
+
+</krpano>
