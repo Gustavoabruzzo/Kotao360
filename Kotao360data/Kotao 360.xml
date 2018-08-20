@@ -89,29 +89,29 @@
         </image>
 
     <image type="CUBE" devices="html5">
-      <front url="_grupo_1__is7a3241_i_25/html5/0.jpg"/>
-      <right url="_grupo_1__is7a3241_i_25/html5/1.jpg"/>
-      <back  url="_grupo_1__is7a3241_i_25/html5/2.jpg"/>
-      <left  url="_grupo_1__is7a3241_i_25/html5/3.jpg"/>
-      <up    url="_grupo_1__is7a3241_i_25/html5/4.jpg"/>
-      <down  url="_grupo_1__is7a3241_i_25/html5/5.jpg"/>
+      <front url="./_grupo_1__is7a3241_i_25/html5/0.jpg"/>
+      <right url="./_grupo_1__is7a3241_i_25/html5/1.jpg"/>
+      <back  url="./_grupo_1__is7a3241_i_25/html5/2.jpg"/>
+      <left  url="./_grupo_1__is7a3241_i_25/html5/3.jpg"/>
+      <up    url="./_grupo_1__is7a3241_i_25/html5/4.jpg"/>
+      <down  url="./_grupo_1__is7a3241_i_25/html5/5.jpg"/>
     </image>
 
       <image type="CUBE" devices="tablet">
-        <front url="_grupo_1__is7a3241_i_25/tablet/0.jpg"/>
-        <right url="_grupo_1__is7a3241_i_25/tablet/1.jpg"/>
-        <back  url="_grupo_1__is7a3241_i_25/tablet/2.jpg"/>
-        <left  url="_grupo_1__is7a3241_i_25/tablet/3.jpg"/>
-        <up    url="_grupo_1__is7a3241_i_25/tablet/4.jpg"/>
-        <down  url="_grupo_1__is7a3241_i_25/tablet/5.jpg"/>
+        <front url="./_grupo_1__is7a3241_i_25/tablet/0.jpg"/>
+        <right url="./_grupo_1__is7a3241_i_25/tablet/1.jpg"/>
+        <back  url="./_grupo_1__is7a3241_i_25/tablet/2.jpg"/>
+        <left  url="./_grupo_1__is7a3241_i_25/tablet/3.jpg"/>
+        <up    url="./_grupo_1__is7a3241_i_25/tablet/4.jpg"/>
+        <down  url="./_grupo_1__is7a3241_i_25/tablet/5.jpg"/>
       </image>
       <image type="CUBE" devices="mobile">
-        <front url="_grupo_1__is7a3241_i_25/mobile/0.jpg"/>
-        <right url="_grupo_1__is7a3241_i_25/mobile/1.jpg"/>
-        <back  url="_grupo_1__is7a3241_i_25/mobile/2.jpg"/>
-        <left  url="_grupo_1__is7a3241_i_25/mobile/3.jpg"/>
-        <up    url="_grupo_1__is7a3241_i_25/mobile/4.jpg"/>
-        <down  url="_grupo_1__is7a3241_i_25/mobile/5.jpg"/>
+        <front url="./_grupo_1__is7a3241_i_25/mobile/0.jpg"/>
+        <right url="./_grupo_1__is7a3241_i_25/mobile/1.jpg"/>
+        <back  url="./_grupo_1__is7a3241_i_25/mobile/2.jpg"/>
+        <left  url="./_grupo_1__is7a3241_i_25/mobile/3.jpg"/>
+        <up    url="./_grupo_1__is7a3241_i_25/mobile/4.jpg"/>
+        <down  url="./_grupo_1__is7a3241_i_25/mobile/5.jpg"/>
       </image>
 
   <!-- **** 2 Point Spots **** -->
